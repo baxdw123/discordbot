@@ -1,17 +1,16 @@
 {
-  "name": "nieuwe-map",
+  "name": "ignore-glasses",
   "version": "1.0.0",
-  "description": "degrotegroepbot",
+  "description": "dit is een test waar ik alles mee wil gaan doen",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon"
   },
   "keywords": [
-    "bot",
-    "2020"
+    "bot"
   ],
-  "author": "Bas",
+  "author": "bas",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.3.1"
